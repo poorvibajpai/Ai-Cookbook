@@ -78,4 +78,4 @@ Check out [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
 <div align="center">
   <i>Learning in public. One recipe at a time. ✨</i>
-</div>
+</div>    
