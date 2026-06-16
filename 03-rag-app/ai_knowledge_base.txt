@@ -1,0 +1,29 @@
+
+Artificial Intelligence: A Brief Overview
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines 
+that are programmed to think and learn like humans. The term was coined by John McCarthy 
+in 1956 at the Dartmouth Conference, which is considered the birth of AI as a field.
+
+Machine Learning is a subset of AI that enables computers to learn from data without 
+being explicitly programmed. Key types include supervised learning, unsupervised learning, 
+and reinforcement learning.
+
+Deep Learning is a subset of machine learning that uses neural networks with many layers. 
+It has revolutionized fields like computer vision, natural language processing, and speech 
+recognition. Key architectures include CNNs, RNNs, and Transformers.
+
+Large Language Models (LLMs) are deep learning models trained on massive text datasets. 
+Examples include GPT-4, Claude, Gemini, and LLaMA. They can generate text, answer 
+questions, summarize documents, and write code.
+
+RAG (Retrieval-Augmented Generation) is a technique that combines information retrieval 
+with text generation. It allows LLMs to access external knowledge bases, reducing 
+hallucination and enabling use of private or up-to-date information.
+
+Vector databases store embeddings — numerical representations of text — and enable 
+semantic similarity search. Popular options include FAISS, Pinecone, ChromaDB, and Weaviate.
+
+Prompt Engineering is the practice of designing inputs to LLMs to get desired outputs. 
+Techniques include zero-shot prompting, few-shot prompting, chain-of-thought, and 
+retrieval augmentation.
