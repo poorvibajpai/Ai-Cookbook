@@ -35,7 +35,7 @@ Think of it as my **learning journal + project portfolio**, built in the open.
 | 01  | LLM Basics & Prompt Engineering | Prompting, Few-shot, CoT | ✅Completed |
 | 02  | Sentiment Analysis Pipeline     | HuggingFace Transformers | ✅Completed |
 | 03  | Build a RAG App                 | LangChain + FAISS        | ✅Completed |
-| 04  | AI Agents from Scratch          | LangChain Agents + Tools | 🔜 Coming Soon |
+| 04  | AI Agents from Scratch          | LangChain Agents + Tools | ⚒️Under-construction |
 | 05  | Capstone Project                | TBD                      | 🔜 Coming Soon |
 
 ---
