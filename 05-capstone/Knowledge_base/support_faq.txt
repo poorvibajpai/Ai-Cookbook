@@ -1,0 +1,41 @@
+[Account Access]
+Q: I forgot my password. How can I reset it?
+A: Click the "Forgot Password" link on the login page and follow the instructions sent to your email address.
+
+Q: I did not receive the password reset email. What should I do?
+A: Check your spam or promotions folder first. If it is not there, wait 5 minutes and try again. If the issue continues, contact support.
+
+[Billing]
+Q: Can I get a refund?
+A: Refunds are available within 7 days of purchase for eligible plans. Refund requests must include the account email and reason for the request.
+
+Q: How long do refunds take?
+A: Approved refunds usually appear in the original payment method within 5 to 10 business days.
+
+Q: Can I change my subscription plan?
+A: Yes. You can upgrade or downgrade your subscription from the billing section of your account settings.
+
+[Orders]
+Q: How do I check my order status?
+A: You can check your order or subscription status from your account dashboard under "Orders" or "Billing".
+
+Q: My payment failed. What should I do?
+A: Confirm your card details, available balance, and bank restrictions. Then retry the payment or use a different payment method.
+
+[Technical Support]
+Q: The app is slow or not loading. What should I do?
+A: Refresh the page, clear browser cache, and try again. If the problem continues, test another browser or device.
+
+Q: The feature I need is not working. What should I include in my support message?
+A: Include the feature name, what you expected, what happened instead, and any screenshot or error message.
+
+[Escalation]
+Q: When should a case be escalated to human support?
+A: Escalate when the user reports repeated payment failure, account lockout, security concerns, data loss, or urgent business impact.
+
+Q: What is a high-priority complaint?
+A: Messages that mention being extremely frustrated, angry, charged incorrectly multiple times, or unable to access a paid account should be treated as high priority.
+
+[Tone Guidance]
+Q: How should support replies sound?
+A: Support replies should be calm, clear, empathetic, and action-oriented. Avoid blaming the user.
