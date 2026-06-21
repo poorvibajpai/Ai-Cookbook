@@ -36,14 +36,41 @@ Think of it as my **learning journal + project portfolio**, built in the open.
 | 02  | Sentiment Analysis Pipeline     | HuggingFace Transformers | ✅Completed |
 | 03  | Build a RAG App                 | LangChain + FAISS        | ✅Completed |
 | 04  | AI Agents from Scratch          | LangChain Agents + Tools | ✅Completed |
-| 05  | Capstone Project                | TBD                      | 🔜 Coming Soon |
-
+| 05  | Capstone Project                | Streamlit Support Copilot with Groq | ✅ In Progress |
 ---
+## 📂 Repository Structure
+
+```bash
+Ai-Cookbook/
+├── README.md
+├── CONTRIBUTING.md
+├── 01-llm-basics/
+│   └── notebook.ipynb
+├── 02-sentiment-pipeline/
+│   └── notebook.ipynb
+├── 03-rag-app/
+│   └── notebook.ipynb
+├── 04-ai-agent/
+│   └── notebook.ipynb
+├── 05-capstone/
+│   ├── app.py
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── knowledge_base/
+│   │   └── support_faq.txt
+│   └── utils/
+│       ├── sentiment.py
+│       ├── retrieval.py
+│       ├── prompts.py
+│       └── llm.py
+└── docs/
+    └── how-rag-works.md
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python 3.10+
 - **Notebooks**: Jupyter / Google Colab
+- **App Framework**: Streamlit
 - **LLM APIs**: Groq, OpenAI, HuggingFace
 - **Frameworks**: LangChain, HuggingFace Transformers
 - **Vector DBs**: FAISS, ChromaDB
